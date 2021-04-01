@@ -1,11 +1,12 @@
 // List of sentences
 var _CONTENT = [
     "Hi, Its _Taimoor_",
-    "< A Web_Developer />",
+    "< Web_Developer/>",
     "Hands on Experiance with :",
     "< JAVASCRIPT/>",
     "_PYTHON_",
-    "$ PHP",
+    "$PHP",
+    "< React/>",
     "_SQL_",
     "_PWA Apps_",
     "And Much More.",
